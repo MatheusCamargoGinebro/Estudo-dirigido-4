@@ -157,7 +157,7 @@ int removerAluno(Lista *lista, int num_mat, Aluno aluno){
         return 0;
     } else{//Procura uma matr�cula igual � digitada pelo usu�rio.
         //Criando ponteiros pra guardar uma posi��o e uma posi��o anterior.
-        Node *prev, *po;
+        Node *prev, *pos;
 
         //Percorrer a lista, enquando procura alguma matr�cula igual � digitada pelo usu�rio.
         for(pos = lista->inicio; pos != NULL; prev=pos, pos=pos->prox){
@@ -565,3 +565,7 @@ int main(){
     }while(valor!=8);
     return 0;
 }
+
+
+
+//kkkkkkkkkkkkk
