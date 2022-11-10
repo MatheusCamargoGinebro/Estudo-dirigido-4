@@ -1,0 +1,7 @@
+Olá professor, tudo bem?
+
+Este documento serve para informar que talvez, quando o programa for executado, ele demore alguns segundos para exibir algo na tela.
+
+Apesar disso, ele não demonstra erros aparentes (pelo menos, não demonstrou erro algum durante os nossos testes).
+
+Esse bloco de notas é mais um aviso mesmo. vlw :D
